@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en HelloWord.jsx debe de hacer match con el snapchot 1`] = `
+<div>
+  <h1>
+    Hola soy Fabian
+  </h1>
+  <p>
+    no hay subtitulo
+  </p>
+  <p>
+    Fabian Muñoz
+  </p>
+</div>
+`;
